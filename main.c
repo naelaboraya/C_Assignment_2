@@ -26,6 +26,7 @@ int main (){
             
             printf("%d\n", Shortest_route(i, j));
         }
+         scanf("%c",&ch);
     }
     return 0;
 }
