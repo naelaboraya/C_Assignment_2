@@ -11,7 +11,7 @@ int main (){
         if (ch=='A'){
             userinput();
         }
-        if(ch=='B'){
+       else if(ch=='B'){
             scanf("%d",&i);
             scanf("%d",&j);
 
@@ -20,7 +20,7 @@ int main (){
             else
                 printf("False\n");
         }
-        if(ch=='C'){
+        else if(ch=='C'){
             scanf("%d",&i);
             scanf("%d",&j);
             
