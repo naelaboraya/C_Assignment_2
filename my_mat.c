@@ -2,8 +2,6 @@
 #include"my_mat.h"
 #define INFINITE 9999999
 #define V 10
-#define true 1
-#define false 0
 
 
 int mat[V][V];
